@@ -20,7 +20,7 @@ sudo apt update
 sudo apt install kicad-nightly
 ```
 ### Installation on Windows:
-The KiCAD files have also been tested on Windows. To download the nightly builds for Windows, please visit this link.
+The KiCAD files have also been tested on Windows. To download the nightly builds for Windows, please visit this link. https://downloads.kicad.org/kicad/windows/explore/nightlies
 
 ### Project History
 The project evolved over time:
